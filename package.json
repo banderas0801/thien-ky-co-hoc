@@ -1,0 +1,22 @@
+{
+  "name": "thien-ky-co-hoc",
+  "version": "1.0.0",
+  "description": "Thiên Kỷ Cổ Học — Nền tảng Tử Vi Đẩu Số, Bát Tự Dụng Thần, Chu Dịch & Trạch Nhật Nhị Thập Bát Tú theo Chân Thái Dương Thời",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "thien-ky-co-hoc",
+    "tu-vi-dau-so",
+    "bat-tu",
+    "dung-than",
+    "kinh-dich",
+    "trach-nhat",
+    "nhi-thap-bat-tu",
+    "phong-thuy",
+    "chan-thai-duong-thoi"
+  ],
+  "author": "Thiên Kỷ Cổ Học",
+  "license": "MIT"
+}

@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build & dist outputs
+dist/
+build/
+out/
+.cache/
+
+# Environment & local secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
